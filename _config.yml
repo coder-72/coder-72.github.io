@@ -1,2 +1,12 @@
-title: jake's projects
-description: Projects made by Jake!!
+layout: index.html
+title: "Home"
+permalink: /
+
+
+layout: resume.html
+title: "Resume"
+permalink: /resume
+
+layout: projects.html
+title: "Projects"
+permalink: /projects
